@@ -4,6 +4,9 @@ auto_html [![Build Status](https://secure.travis-ci.org/dejan/auto_html.png?bran
 
 auto_html is a Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video,...). It's the perfect choice if you don't want to bother visitors with rich HTML editor or markup code, but you still want to allow them to embed video, images, links and more on your site, purely by pasting URL. Check out the [live demo](http://rors.org/demos/auto_html).
 
+## This fork
+
+Adding a div wrapper to filters so I can add responsive properties to iframes
 
 ## Install
 
